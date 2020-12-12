@@ -11,7 +11,7 @@
 
 ### RUNNING
 ```
-# ./bullet www.fakesite.com 80
+# ./bullet www.website.com 80
 ```
 ### Warning
 ```
