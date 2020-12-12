@@ -1,15 +1,36 @@
-<h1 align="center">bullet</h1>
-<p align="center">
-  The Most Powerful DoS tool
-</p>
+# ADMIN-KILLER
 
 
-### COMPILE
-```
-# gcc bullet.c -o bullet
-```
+# Features
+Admin-Killer is an Admin Panel Finder made with Python3
+its one of the fastest Admin Panel Finders out there
 
-### RUNNING
-```
-# ./bullet www.website.com 80
-```
+
+##### PREREQUISITES
+* Python 3.x 
+* pip3
+* git
+
+##### PYTHON 3 PREREQUISITES
+* aiohttp
+* asyncio
+
+# Installation
+## Resolve dependencies
+*Ubuntu/Debian System*
+
+$ sudo apt-get --force-yes -y install git python3 python3-pip
+
+
+## Getting and Running Admin-Killer
+
+$ cd admin-killer
+$ sudo pip3 install -r requirements.txt
+$ python3 admin-killer.py
+
+
+
+
+
+
+
