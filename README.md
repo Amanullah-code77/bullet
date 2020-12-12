@@ -15,4 +15,5 @@
 ```
 ### Warning
 ```
-I am not responsible for any misuse or illegal purposes. Use it only for educational purpose.
+# I am not responsible for any misuse or illegal purposes. Use it only for educational purpose.
+```
