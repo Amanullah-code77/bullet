@@ -13,3 +13,6 @@
 ```
 # ./bullet www.fakesite.com 80
 ```
+### Warning
+```
+I am not responsible for any misuse or illegal purposes. Use it only for educational purpose.
