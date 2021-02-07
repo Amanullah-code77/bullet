@@ -4,15 +4,15 @@
 </p>
 
 
-### COMPILE
-```
+### Command
+
 # gcc bullet.c -o bullet
-```
+
 
 ### RUNNING
-```
+
 # ./bullet www.website.com 80
-```
+
 ### WARNING
 ```
 # I am not responsible for any misuse or illegal purposes. Use it only for educational purpose.
